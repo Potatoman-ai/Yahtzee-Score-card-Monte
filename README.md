@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <h1>YAHTZEE</h1>
-  <form>
+  <form> 
   Name:
   <input type="text">
   <br/>
-    <table margin="20px">
+    <table>
       <tr>
         <td></td>
         <td></td>
@@ -219,7 +219,6 @@
         <td></td>
         <td></td>
       </tr>
-    </table>
-    
+    </table>  
   </form>
 </html>
