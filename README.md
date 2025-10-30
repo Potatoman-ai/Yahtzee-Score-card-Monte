@@ -31,7 +31,8 @@
         <td></td>
         <td></td>
         <td></td>
-      </tr><tr>
+      </tr>
+      <tr>
         <td>Twos</td>
         <td>Count and only add Twos</td>
         <td></td>
@@ -110,6 +111,14 @@
         <td></td>
       </tr>
     </table>
+  </form>
+  <form>
+    <style>
+  p:last-of-type {
+     font-weight: bold;
+     background-color: gold;
+  }
+</style>
     <br/>
     <h6>Lower section</h6>
     <table>
