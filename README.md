@@ -4,9 +4,9 @@
   <h1>YAHTZEE</h1>
   <form>
   Name:
-  <input type="text" margin="10px">
+  <input type="text">
   <br/>
-    <table>
+    <table margin="20px">
       <tr>
         <td></td>
         <td></td>
