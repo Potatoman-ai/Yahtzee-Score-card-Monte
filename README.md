@@ -1,5 +1,4 @@
 # Yahtzee-Score-card-Monte
-<!DOCTYPE html>
 <html lang="en">
   <h1>YAHTZEE</h1>
   <form>
