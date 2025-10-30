@@ -2,7 +2,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <h1>YAHTZEE</h1>
-  <form> 
+
+  <form>
+    <style>
+  *:last-child {
+     font-weight: bold;
+     background-color: gold;
+  }
+</style>
   Name:
   <input type="text">
   <br/>
