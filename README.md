@@ -4,7 +4,7 @@
   <h1>YAHTZEE</h1>
   <form>
     <style>
-  td:last-of-type {
+  tr:last-of-type {
      font-weight: bold;
      background-color: gold;
   }
