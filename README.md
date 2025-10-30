@@ -2,10 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <h1>YAHTZEE</h1>
-
   <form>
     <style>
-  *:last-child {
+  td:last-of-type {
      font-weight: bold;
      background-color: gold;
   }
